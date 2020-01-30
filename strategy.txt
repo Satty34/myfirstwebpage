@@ -1,0 +1,7 @@
+1.design the login page 
+ so that on clicking on the login button we go to the login page and can login into the application.
+
+2.design a result page so that after entering details for flight we land to the result page.
+
+
+3.in the home page include some more elements like calenders, date, and all other basic elements that have been taught.
